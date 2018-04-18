@@ -1,0 +1,17 @@
+{
+  "name": "serverless-plugin-package-json",
+  "version": "1.0.0",
+  "description": "Get package.json properties as serverless variables",
+  "main": "pkg-json-vars.js",
+  "keywords": [
+    "serverless",
+    "serverless plugin",
+    "aws",
+    "package version",
+    "aws lambda",
+    "serverless.com"
+  ],  
+  "repository": "https://github.com/vmurin/serverless-plugin-package-json",
+  "author": "vladimir@murin-online.de",
+  "license": "MIT"
+}
