@@ -1,6 +1,6 @@
 {
   "name": "serverless-plugin-package-json",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Get package.json properties as serverless variables",
   "main": "pkg-json-vars.js",
   "keywords": [
