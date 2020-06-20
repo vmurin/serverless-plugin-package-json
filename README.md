@@ -17,3 +17,5 @@ functions:
     description: 'Version: ${pkgjson:version}'
 
 ```
+
+Using the snippet above you can any time check the version of deployed Lambda function
