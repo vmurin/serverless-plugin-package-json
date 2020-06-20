@@ -1,6 +1,6 @@
 # serverless-plugin-package-json
 
-Expose package.json properties to your serverless services.
+Expose `package.json` properties to your serverless services and make it available in `serverless.yml`.
 
 ## Usage
 
